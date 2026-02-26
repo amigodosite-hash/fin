@@ -1,0 +1,5 @@
+{
+  "name": "FinHost - Gerenciador Financeiro",
+  "description": "Sistema de controle financeiro para empresas de hospedagem e serviços digitais, com gestão de clientes, receitas recorrentes e despesas.",
+  "requestFramePermissions": []
+}
